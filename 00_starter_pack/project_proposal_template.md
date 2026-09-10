@@ -1,6 +1,6 @@
 # Project Proposal
  
-## Introduction
+## Overview
  
 This section introduces your project proposal to stakeholders, board members, and potential investors. The introduction should orient readers to the general problem space and establish why your project matters in the broader context of the industry, market, or social landscape. You should briefly describe what your product is and why you believe it represents a good investment of time and resources.
  
