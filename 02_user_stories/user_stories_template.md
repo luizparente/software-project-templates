@@ -1,6 +1,6 @@
 # User Stories
 
-## Introduction
+## Overview
 
 Each user story in this document follows a standardized template to ensure consistency and clarity.
 
