@@ -1,4 +1,4 @@
-# Project Proposal Document
+# Project Proposal
  
 ## Introduction
  
