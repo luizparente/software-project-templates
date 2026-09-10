@@ -6,6 +6,8 @@ This guide outlines the characteristics of a perfect submission. Use this checkl
 
 ## Submission Success Checklist
 
+- [ ] **Content:** Ensure all sections defined in the template are present and every paragraph is written intentionally, covering the content specified per instructions.
+
 - [ ] **Overall Tone & Clarity:** Professional, clear, and engaging for a business/technical audience. Your writing should be polished, free of jargon, and logically organized.
 
 - [ ] **Evidence-Based:** All major claims are substantiated with citations or data. Do not make assertions without backing them up with research or evidence.
