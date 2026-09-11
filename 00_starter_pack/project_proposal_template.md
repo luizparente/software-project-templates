@@ -1,4 +1,10 @@
 # Project Proposal
+
+---
+
+**Authors:** [Name, Name, Name...]
+
+---
  
 ## Overview
  
@@ -35,6 +41,14 @@ The Project Overview section provides comprehensive, business-oriented details a
 Provide a detailed description of your product, including its features, functionality, target users, and intended use cases. Go beyond the high-level summary in the Introduction and Proposed Solution; here you should paint a vivid picture of what your product is and how users will interact with it. Describe the primary and secondary features, the user experience, and the overall architecture or approach that makes your product distinctive.
  
 **What we expect to see:** Write 3–5 paragraphs (approximately 600–1000 words total) that comprehensively describe your product. Organize your description logically—for example, you might start with the core user experience, then describe primary features, then discuss secondary features or advanced capabilities. Use clear, specific language. If your product is complex, consider describing it from multiple angles (e.g., how different user personas interact with it, how it integrates with existing workflows, or how it scales). You may include user stories, workflows, or scenarios to illustrate typical interactions. Do not focus on technical implementation; instead, focus on what the product does and what the user experiences. By the end of this section, a reader should have a clear mental model of your product.
+
+#### In Scope
+
+Describe the scope of your project in detail. What is included? What are your goals? 
+
+#### Out of Scope
+
+Define what is excluded from your project, and why.
  
 ### Value Proposition
  
